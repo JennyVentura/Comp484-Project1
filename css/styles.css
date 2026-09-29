@@ -5,17 +5,17 @@ html { /*comment*/
 
 }
 body {
-    /*width: 
-    margin: 
-    font: 
-    padding: 
+    width: 80%; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+    margin: 0; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+    font: 'Times New Roman', serif; /*decide if want????????????*/
+    /*padding: 
     background: 
     border-bottom: -- not sure I want this*/
 }
 h1 {
-    font-family:Garamond, Baskerville, serif;
-    /*font-size: 
-    font-weight: 
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2em;
+    /*font-weight: 
     font-style: 
     margin: 
     color: 
