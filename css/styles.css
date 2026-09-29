@@ -32,3 +32,9 @@ p {
     margin: 
     margin-bottom: -- not sure I want this*/
 }
+a {
+    color: orange; /*you sure?? what about purple*/
+}
+a:hover {
+    color: purple; /*maybe swap??*/
+}
