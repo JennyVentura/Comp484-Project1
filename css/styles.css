@@ -1,2 +1,34 @@
-/*comment*/
+html { /*comment*/
+    margin: 0;
+    padding: 0;
+    /*background-color: #???*/
 
+}
+body {
+    /*width: 
+    margin: 
+    font: 
+    padding: 
+    background: 
+    border-bottom: -- not sure I want this*/
+}
+h1 {
+    /*font-family: --something halloweenish with backups
+    font-size: 
+    font-weight: 
+    font-style: 
+    margin: 
+    color: 
+    background-color: 
+    padding: */
+}
+h2 {
+    /*needed???????*/
+}
+p {
+    /*line-height: 2; --like an essay??
+    text-align: justify; --should it be blocked or like old script??
+    width: 
+    margin: 
+    margin-bottom: -- not sure I want this*/
+}
