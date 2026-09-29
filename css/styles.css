@@ -6,8 +6,8 @@ html { /*comment*/
 }
 body {
     width: 80%; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    margin: 0; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    font: 'Times New Roman', serif; /*decide if want????????????*/
+    margin: 1 em; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+    font: 100% "Times New Roman", Georgia, serif; /*decide if want????????????*/
     /*padding: 
     background: 
     border-bottom: -- not sure I want this*/
@@ -15,19 +15,21 @@ body {
 h1 {
     font-family: 'Brush Script MT', cursive;
     font-size: 2em;
-    /*font-weight: 
-    font-style: 
-    margin: 
+    font-weight: normal;
+    margin-right: auto;
+	margin-left: auto;
+	padding: 2.5% 2.5% 0;
+
+    /*font-style: 
     color: 
-    background-color: 
-    padding: */
+    background-color: */
 }
 h2 {
     /*needed???????*/
 }
 p {
-    /*line-height: 2; --like an essay??
-    text-align: justify; --should it be blocked or like old script??
+    line-height: 2;
+    /*text-align: justify; --should it be blocked or like old script??
     width: 
     margin: 
     margin-bottom: -- not sure I want this*/
