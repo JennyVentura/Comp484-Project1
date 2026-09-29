@@ -1,16 +1,13 @@
-html { /*comment*/
+html {
     margin: 0;
     padding: 0;
-    /*background-color: #???*/
+    background-color: #FF9B27;
 
 }
 body {
-    width: 80%; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    margin: 1 em; /*fix this!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    font: 100% "Times New Roman", Georgia, serif; /*decide if want????????????*/
-    /*padding: 
-    background: 
-    border-bottom: -- not sure I want this*/
+    width: 80%;
+    margin: 1 em;
+    font: 100% "Times New Roman", Georgia, serif;
 }
 h1 {
     font-family: 'Brush Script MT', cursive;
@@ -19,36 +16,25 @@ h1 {
     margin-right: auto;
 	margin-left: auto;
 	padding: 2.5% 2.5% 0;
-
-    /*font-style: 
-    color: 
-    background-color: */
-}
-h2 {
-    /*needed???????*/
 }
 p {
     line-height: 2;
-    /*text-align: justify; --should it be blocked or like old script??
-    width: 
-    margin: 
-    margin-bottom: -- not sure I want this*/
 }
 a {
-    color: orange; /*you sure?? what about purple*/
+    color: purple;
 }
 a:hover {
-    color: purple; /*maybe swap??*/
+    color: green;
 }
 textarea{
     width: 100%;
     max-height: 300px;
     max-width: 300px;
 }
-footer { /*change this!!!!!!!!!!!!!!!*/
-	border-top: 1px solid gray;
+footer {
+	border-top: 1px solid black;
 	text-align: center;
 	font-size: .8em;
-	line-height: 4em;
-	margin-top: 1em;
+	line-height: 2em;
+	margin-top: 3em;
 }
